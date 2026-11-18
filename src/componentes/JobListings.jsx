@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
 import JobListing from "./JobListing"
-import Spinner from "./spinner"
+import Spinner from "./Spinner"
 
 const JobListings = ({ isHome = false }) => {
   const [jobs, setJobs] = useState([])
@@ -8,16 +8,19 @@ const JobListings = ({ isHome = false }) => {
   const [error, setError] = useState(null)
 
   useEffect(() => {
+    const apiUrl = isHome 
+                  ? '/api/jobs?_page=1&_per_page=3'
+                  : 'api/jobs?_page=1&_per_page=6'
     const fetchJobs = async () => {
       try {
-        const resultado = await fetch("http://localhost:5000/jobs")
+        const resultado = await fetch(apiUrl)
 
         if (!resultado.ok) {
           throw new Error(`Error ${resultado.status}`)
         }
 
         const data = await resultado.json()
-        setJobs(data)
+        setJobs(data.data)
       } catch (error) {
         console.error("Error al obtener los trabajos:", error)
         setError("No se pudieron cargar los trabajos")

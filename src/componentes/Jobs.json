@@ -18,8 +18,8 @@
       "id": "2",
       "title": "Front-End Engineer (React & Redux)",
       "type": "Full-Time",
-      "location": "Miami, FL",
       "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "location": "Miami, FL",
       "salary": "$70K - $80K",
       "company": {
         "name": "Veneer Solutions",
@@ -32,8 +32,8 @@
       "id": "3",
       "title": "React.js Dev",
       "type": "Full-Time",
-      "location": "Brooklyn, NY",
       "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "location": "Brooklyn, NY",
       "salary": "$70K - $80K",
       "company": {
         "name": "Dolor Cloud",
@@ -81,6 +81,1126 @@
         "name": "Port Solutions INC",
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a Full Stack JavaScript Developer to join our team in Dallas, TX. We value clean code, code reviews, and a healthy work-life balance. Strong communication skills and a drive to keep learning new technologies are highly valued. Competitive salary and benefits included.",
+      "location": "Dallas, TX",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Cedar Labs",
+        "description": "Cedar Labs is a fast-growing team working on e-commerce platforms. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@cedarlabs.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "8",
+      "title": "React & TypeScript Developer",
+      "type": "Full-Time",
+      "description": "Are you a passionate React & TypeScript Developer? Come work with us in Las Vegas, NV. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Strong communication skills and a drive to keep learning new technologies are highly valued. Join a collaborative team where your ideas are valued.",
+      "location": "Las Vegas, NV",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Blue Systems",
+        "description": "Blue Systems builds modern software for travel and booking. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@bluesystems.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "9",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "description": "Our growing team in Baltimore, MD is hiring a React Developer. Experience with REST APIs, Git, and testing tools such as Jest is a plus. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Flexible hours and remote-friendly culture.",
+      "location": "Baltimore, MD",
+      "salary": "$120K - $130K",
+      "company": {
+        "name": "Nimbus Dynamics",
+        "description": "At Nimbus Dynamics we focus on financial technology. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@nimbusdynamics.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Senior Front-End Engineer",
+      "type": "Full-Time",
+      "description": "Are you a passionate Senior Front-End Engineer? Come work with us in San Jose, CA. Experience with REST APIs, Git, and testing tools such as Jest is a plus. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Join a collaborative team where your ideas are valued.",
+      "location": "San Jose, CA",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Iron Studio",
+        "description": "Iron Studio is a company specializing in SaaS products. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@ironstudio.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Front-End Architect",
+      "type": "Full-Time",
+      "description": "Are you a passionate Front-End Architect? Come work with us in Sacramento, CA. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Competitive salary and benefits included.",
+      "location": "Sacramento, CA",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Umbra Systems",
+        "description": "Umbra Systems builds modern software for gaming and entertainment. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@umbrasystems.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Next.js Developer",
+      "type": "Full-Time",
+      "description": "Join us in Philadelphia, PA as a Next.js Developer and help build products people love. We value clean code, code reviews, and a healthy work-life balance. Experience with REST APIs, Git, and testing tools such as Jest is a plus. Flexible hours and remote-friendly culture.",
+      "location": "Philadelphia, PA",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Orbit Systems",
+        "description": "At Orbit Systems we focus on digital marketing. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@orbitsystems.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Internship",
+      "description": "Are you a passionate Full Stack JavaScript Developer? Come work with us in Detroit, MI. We value clean code, code reviews, and a healthy work-life balance. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Great learning budget and mentorship available.",
+      "location": "Detroit, MI",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Juniper Solutions",
+        "description": "Juniper Solutions builds modern software for health-care software. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@junipersolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Internship",
+      "description": "Our growing team in Baltimore, MD is hiring a Full Stack JavaScript Developer. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Competitive salary and benefits included.",
+      "location": "Baltimore, MD",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Beacon Studio",
+        "description": "At Beacon Studio we focus on cloud infrastructure. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@beaconstudio.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "15",
+      "title": "React & TypeScript Developer",
+      "type": "Remote",
+      "description": "Exciting opportunity for a React & TypeScript Developer in a fully remote role. We value clean code, code reviews, and a healthy work-life balance. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Join a collaborative team where your ideas are valued.",
+      "location": "Remote",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Nimbus Systems",
+        "description": "Nimbus Systems is a fast-growing team working on health-care software. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@nimbussystems.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Next.js Developer",
+      "type": "Contract",
+      "description": "Are you a passionate Next.js Developer? Come work with us in Orlando, FL. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Strong communication skills and a drive to keep learning new technologies are highly valued. Join a collaborative team where your ideas are valued.",
+      "location": "Orlando, FL",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Meridian Digital",
+        "description": "At Meridian Digital we focus on online education. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@meridiandigital.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "17",
+      "title": "React Performance Engineer",
+      "type": "Full-Time",
+      "description": "We are looking for a React Performance Engineer to join our team in Kansas City, MO. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. We value clean code, code reviews, and a healthy work-life balance. Join a collaborative team where your ideas are valued.",
+      "location": "Kansas City, MO",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Echo Networks",
+        "description": "Echo Networks is a company specializing in cloud infrastructure. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@echonetworks.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "18",
+      "title": "UI/UX Front-End Developer",
+      "type": "Contract",
+      "description": "We are looking for a UI/UX Front-End Developer to join our team in Houston, TX. We value clean code, code reviews, and a healthy work-life balance. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Great learning budget and mentorship available.",
+      "location": "Houston, TX",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "Umbra Interactive",
+        "description": "At Umbra Interactive we focus on gaming and entertainment. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@umbrainteractive.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "19",
+      "title": "React Native Engineer",
+      "type": "Part-Time",
+      "description": "We are looking for a React Native Engineer to join our team in Los Angeles, CA. We value clean code, code reviews, and a healthy work-life balance. Experience with REST APIs, Git, and testing tools such as Jest is a plus. Great learning budget and mentorship available.",
+      "location": "Los Angeles, CA",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Redwood Systems",
+        "description": "Redwood Systems builds modern software for real estate technology. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@redwoodsystems.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "20",
+      "title": "React Native Engineer",
+      "type": "Internship",
+      "description": "Exciting opportunity for a React Native Engineer in Las Vegas, NV. Experience with REST APIs, Git, and testing tools such as Jest is a plus. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Great learning budget and mentorship available.",
+      "location": "Las Vegas, NV",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Bright Apps",
+        "description": "Bright Apps is a company specializing in media streaming. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@brightapps.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "21",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "description": "Our growing team in New Orleans, LA is hiring a React Developer. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Flexible hours and remote-friendly culture.",
+      "location": "New Orleans, LA",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Quartz Group",
+        "description": "Quartz Group is a company specializing in financial technology. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@quartzgroup.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "22",
+      "title": "Mid-Level React Developer",
+      "type": "Contract",
+      "description": "Exciting opportunity for a Mid-Level React Developer in Kansas City, MO. We value clean code, code reviews, and a healthy work-life balance. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Great learning budget and mentorship available.",
+      "location": "Kansas City, MO",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Delta Apps",
+        "description": "Delta Apps builds modern software for logistics and delivery. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@deltaapps.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "23",
+      "title": "Software Engineer (React)",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a Software Engineer (React) in San Diego, CA. We value clean code, code reviews, and a healthy work-life balance. Experience with REST APIs, Git, and testing tools such as Jest is a plus. Join a collaborative team where your ideas are valued.",
+      "location": "San Diego, CA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Fusion Apps",
+        "description": "At Fusion Apps we focus on travel and booking. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@fusionapps.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "24",
+      "title": "Senior Front-End Engineer",
+      "type": "Full-Time",
+      "description": "Our growing team in Dallas, TX is hiring a Senior Front-End Engineer. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Strong communication skills and a drive to keep learning new technologies are highly valued. Great learning budget and mentorship available.",
+      "location": "Dallas, TX",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Fusion Group",
+        "description": "Fusion Group builds modern software for media streaming. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@fusiongroup.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "25",
+      "title": "Mid-Level React Developer",
+      "type": "Internship",
+      "description": "We are looking for a Mid-Level React Developer to join our team in Seattle, WA. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Experience with REST APIs, Git, and testing tools such as Jest is a plus. Competitive salary and benefits included.",
+      "location": "Seattle, WA",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Keystone Labs",
+        "description": "Keystone Labs builds modern software for logistics and delivery. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@keystonelabs.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "26",
+      "title": "Front-End Architect",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Front-End Architect in Washington, DC. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. We value clean code, code reviews, and a healthy work-life balance. Flexible hours and remote-friendly culture.",
+      "location": "Washington, DC",
+      "salary": "$130K - $140K",
+      "company": {
+        "name": "Delta Software",
+        "description": "Delta Software is a company specializing in financial technology. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@deltasoftware.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "27",
+      "title": "JavaScript Engineer",
+      "type": "Part-Time",
+      "description": "We are looking for a JavaScript Engineer to join our team in Minneapolis, MN. We value clean code, code reviews, and a healthy work-life balance. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Competitive salary and benefits included.",
+      "location": "Minneapolis, MN",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Zenith Technologies",
+        "description": "Zenith Technologies is a fast-growing team working on data analytics dashboards. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@zenithtechnologies.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "28",
+      "title": "Senior Front-End Engineer",
+      "type": "Full-Time",
+      "description": "Are you a passionate Senior Front-End Engineer? Come work with us in San Diego, CA. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Join a collaborative team where your ideas are valued.",
+      "location": "San Diego, CA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Redwood Dynamics",
+        "description": "Redwood Dynamics builds modern software for logistics and delivery. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@redwooddynamics.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "29",
+      "title": "Mid-Level React Developer",
+      "type": "Part-Time",
+      "description": "We are looking for a Mid-Level React Developer to join our team in Indianapolis, IN. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Strong communication skills and a drive to keep learning new technologies are highly valued. Competitive salary and benefits included.",
+      "location": "Indianapolis, IN",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Beacon Software",
+        "description": "Beacon Software is a company specializing in SaaS products. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@beaconsoftware.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "30",
+      "title": "JavaScript Engineer",
+      "type": "Part-Time",
+      "description": "Join us in Salt Lake City, UT as a JavaScript Engineer and help build products people love. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Join a collaborative team where your ideas are valued.",
+      "location": "Salt Lake City, UT",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Lumen Digital",
+        "description": "Lumen Digital is a company specializing in cloud infrastructure. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@lumendigital.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "31",
+      "title": "UI/UX Front-End Developer",
+      "type": "Full-Time",
+      "description": "Join us in Pittsburgh, PA as a UI/UX Front-End Developer and help build products people love. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. We value clean code, code reviews, and a healthy work-life balance. We offer health coverage, paid time off, and growth opportunities.",
+      "location": "Pittsburgh, PA",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "Meridian Dynamics",
+        "description": "Meridian Dynamics builds modern software for e-commerce platforms. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@meridiandynamics.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "32",
+      "title": "Web Application Developer",
+      "type": "Full-Time",
+      "description": "Are you a passionate Web Application Developer? Come work with us in Seattle, WA. Strong communication skills and a drive to keep learning new technologies are highly valued. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Competitive salary and benefits included.",
+      "location": "Seattle, WA",
+      "salary": "$130K - $140K",
+      "company": {
+        "name": "Gradient Labs",
+        "description": "Gradient Labs is a company specializing in green energy software. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@gradientlabs.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "33",
+      "title": "Software Engineer (React)",
+      "type": "Full-Time",
+      "description": "Join us in Boulder, CO as a Software Engineer (React) and help build products people love. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Strong communication skills and a drive to keep learning new technologies are highly valued. Flexible hours and remote-friendly culture.",
+      "location": "Boulder, CO",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Harbor Systems",
+        "description": "Harbor Systems is a company specializing in media streaming. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@harborsystems.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "34",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full Stack JavaScript Developer in Boulder, CO. Experience with REST APIs, Git, and testing tools such as Jest is a plus. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Flexible hours and remote-friendly culture.",
+      "location": "Boulder, CO",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Fusion Technologies",
+        "description": "At Fusion Technologies we focus on travel and booking. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@fusiontechnologies.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "35",
+      "title": "Mid-Level React Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a Mid-Level React Developer to join our team in Minneapolis, MN. Strong communication skills and a drive to keep learning new technologies are highly valued. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Great learning budget and mentorship available.",
+      "location": "Minneapolis, MN",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Quartz Dynamics",
+        "description": "At Quartz Dynamics we focus on health-care software. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@quartzdynamics.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "36",
+      "title": "Next.js Developer",
+      "type": "Full-Time",
+      "description": "Join us in Nashville, TN as a Next.js Developer and help build products people love. Strong communication skills and a drive to keep learning new technologies are highly valued. Experience with REST APIs, Git, and testing tools such as Jest is a plus. Great learning budget and mentorship available.",
+      "location": "Nashville, TN",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Sterling Systems",
+        "description": "Sterling Systems is a company specializing in customer-support tools. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@sterlingsystems.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "37",
+      "title": "Senior Front-End Engineer",
+      "type": "Full-Time",
+      "description": "We are looking for a Senior Front-End Engineer to join our team in Houston, TX. We value clean code, code reviews, and a healthy work-life balance. Strong communication skills and a drive to keep learning new technologies are highly valued. Flexible hours and remote-friendly culture.",
+      "location": "Houston, TX",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Horizon Works",
+        "description": "At Horizon Works we focus on logistics and delivery. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@horizonworks.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "38",
+      "title": "Web Application Developer",
+      "type": "Full-Time",
+      "description": "Are you a passionate Web Application Developer? Come work with us in Boulder, CO. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Experience with REST APIs, Git, and testing tools such as Jest is a plus. Competitive salary and benefits included.",
+      "location": "Boulder, CO",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Juniper Cloud",
+        "description": "Juniper Cloud is a company specializing in customer-support tools. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@junipercloud.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "39",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full Stack JavaScript Developer in Austin, TX. We value clean code, code reviews, and a healthy work-life balance. Experience with REST APIs, Git, and testing tools such as Jest is a plus. Flexible hours and remote-friendly culture.",
+      "location": "Austin, TX",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Zenith Apps",
+        "description": "Zenith Apps is a fast-growing team working on real estate technology. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@zenithapps.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "40",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "description": "Are you a passionate React Developer? Come work with us in Denver, CO. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Experience with REST APIs, Git, and testing tools such as Jest is a plus. Great learning budget and mentorship available.",
+      "location": "Denver, CO",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Zenith Networks",
+        "description": "Zenith Networks builds modern software for cloud infrastructure. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@zenithnetworks.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "41",
+      "title": "React Native Engineer",
+      "type": "Full-Time",
+      "description": "Our growing team in Cleveland, OH is hiring a React Native Engineer. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. We value clean code, code reviews, and a healthy work-life balance. Competitive salary and benefits included.",
+      "location": "Cleveland, OH",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Echo Labs",
+        "description": "At Echo Labs we focus on gaming and entertainment. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@echolabs.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "42",
+      "title": "JavaScript Engineer",
+      "type": "Remote",
+      "description": "Exciting opportunity for a JavaScript Engineer in a fully remote role. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. We value clean code, code reviews, and a healthy work-life balance. Join a collaborative team where your ideas are valued.",
+      "location": "Remote",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Horizon Apps",
+        "description": "Horizon Apps is a company specializing in health-care software. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@horizonapps.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "43",
+      "title": "Next.js Developer",
+      "type": "Full-Time",
+      "description": "Join us in Los Angeles, CA as a Next.js Developer and help build products people love. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Flexible hours and remote-friendly culture.",
+      "location": "Los Angeles, CA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Willow Dynamics",
+        "description": "Willow Dynamics builds modern software for green energy software. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@willowdynamics.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "44",
+      "title": "React Native Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a React Native Engineer in Dallas, TX. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Experience with REST APIs, Git, and testing tools such as Jest is a plus. We offer health coverage, paid time off, and growth opportunities.",
+      "location": "Dallas, TX",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Beacon Technologies",
+        "description": "Beacon Technologies is a company specializing in gaming and entertainment. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@beacontechnologies.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "45",
+      "title": "Design Systems Engineer",
+      "type": "Part-Time",
+      "description": "Our growing team in Boulder, CO is hiring a Design Systems Engineer. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. We value clean code, code reviews, and a healthy work-life balance. We offer health coverage, paid time off, and growth opportunities.",
+      "location": "Boulder, CO",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Nimbus Technologies",
+        "description": "Nimbus Technologies builds modern software for media streaming. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@nimbustechnologies.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "46",
+      "title": "Senior Front-End Engineer",
+      "type": "Remote",
+      "description": "Our growing team in a fully remote role is hiring a Senior Front-End Engineer. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Strong communication skills and a drive to keep learning new technologies are highly valued. Great learning budget and mentorship available.",
+      "location": "Remote",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Meridian Labs",
+        "description": "Meridian Labs is a company specializing in cloud infrastructure. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@meridianlabs.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "47",
+      "title": "Junior React Developer",
+      "type": "Part-Time",
+      "description": "Are you a passionate Junior React Developer? Come work with us in Austin, TX. We value clean code, code reviews, and a healthy work-life balance. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. We offer health coverage, paid time off, and growth opportunities.",
+      "location": "Austin, TX",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Ionic Works",
+        "description": "Ionic Works is a fast-growing team working on financial technology. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@ionicworks.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "48",
+      "title": "Web Application Developer",
+      "type": "Internship",
+      "description": "Our growing team in San Jose, CA is hiring a Web Application Developer. Strong communication skills and a drive to keep learning new technologies are highly valued. Experience with REST APIs, Git, and testing tools such as Jest is a plus. Join a collaborative team where your ideas are valued.",
+      "location": "San Jose, CA",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Redwood Interactive",
+        "description": "At Redwood Interactive we focus on cloud infrastructure. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@redwoodinteractive.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "49",
+      "title": "Front-End Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Front-End Developer in Pittsburgh, PA. Strong communication skills and a drive to keep learning new technologies are highly valued. We value clean code, code reviews, and a healthy work-life balance. We offer health coverage, paid time off, and growth opportunities.",
+      "location": "Pittsburgh, PA",
+      "salary": "$120K - $130K",
+      "company": {
+        "name": "Orbit Networks",
+        "description": "Orbit Networks is a fast-growing team working on real estate technology. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@orbitnetworks.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "50",
+      "title": "React Native Engineer",
+      "type": "Full-Time",
+      "description": "Join us in Pittsburgh, PA as a React Native Engineer and help build products people love. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. We value clean code, code reviews, and a healthy work-life balance. Flexible hours and remote-friendly culture.",
+      "location": "Pittsburgh, PA",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Nova Works",
+        "description": "Nova Works is a fast-growing team working on gaming and entertainment. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@novaworks.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "51",
+      "title": "Mid-Level React Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a Mid-Level React Developer to join our team in Las Vegas, NV. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Experience with REST APIs, Git, and testing tools such as Jest is a plus. Flexible hours and remote-friendly culture.",
+      "location": "Las Vegas, NV",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Granite Solutions",
+        "description": "Granite Solutions builds modern software for health-care software. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@granitesolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "52",
+      "title": "Next.js Developer",
+      "type": "Part-Time",
+      "description": "Join us in Columbus, OH as a Next.js Developer and help build products people love. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Strong communication skills and a drive to keep learning new technologies are highly valued. Flexible hours and remote-friendly culture.",
+      "location": "Columbus, OH",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Blue Labs",
+        "description": "Blue Labs is a fast-growing team working on travel and booking. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@bluelabs.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "53",
+      "title": "Front-End Developer",
+      "type": "Internship",
+      "description": "We are looking for a Front-End Developer to join our team in Baltimore, MD. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Flexible hours and remote-friendly culture.",
+      "location": "Baltimore, MD",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Vertex Software",
+        "description": "Vertex Software is a fast-growing team working on e-commerce platforms. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@vertexsoftware.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "54",
+      "title": "Senior Front-End Engineer",
+      "type": "Part-Time",
+      "description": "Are you a passionate Senior Front-End Engineer? Come work with us in San Francisco, CA. Strong communication skills and a drive to keep learning new technologies are highly valued. We value clean code, code reviews, and a healthy work-life balance. We offer health coverage, paid time off, and growth opportunities.",
+      "location": "San Francisco, CA",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Horizon Software",
+        "description": "Horizon Software is a fast-growing team working on media streaming. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@horizonsoftware.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "55",
+      "title": "Front-End Architect",
+      "type": "Part-Time",
+      "description": "Join us in Cleveland, OH as a Front-End Architect and help build products people love. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Experience with REST APIs, Git, and testing tools such as Jest is a plus. Flexible hours and remote-friendly culture.",
+      "location": "Cleveland, OH",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Ember Studio",
+        "description": "At Ember Studio we focus on gaming and entertainment. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@emberstudio.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "56",
+      "title": "UI/UX Front-End Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a UI/UX Front-End Developer in Baltimore, MD. Experience with REST APIs, Git, and testing tools such as Jest is a plus. We value clean code, code reviews, and a healthy work-life balance. We offer health coverage, paid time off, and growth opportunities.",
+      "location": "Baltimore, MD",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Lumen Works",
+        "description": "Lumen Works is a company specializing in health-care software. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@lumenworks.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "57",
+      "title": "Staff Front-End Engineer",
+      "type": "Full-Time",
+      "description": "We are looking for a Staff Front-End Engineer to join our team in Baltimore, MD. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. We value clean code, code reviews, and a healthy work-life balance. We offer health coverage, paid time off, and growth opportunities.",
+      "location": "Baltimore, MD",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Falcon Software",
+        "description": "Falcon Software is a fast-growing team working on cloud infrastructure. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@falconsoftware.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "58",
+      "title": "JavaScript Engineer",
+      "type": "Part-Time",
+      "description": "We are looking for a JavaScript Engineer to join our team in Cleveland, OH. Strong communication skills and a drive to keep learning new technologies are highly valued. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Join a collaborative team where your ideas are valued.",
+      "location": "Cleveland, OH",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Pixel Software",
+        "description": "Pixel Software is a company specializing in digital marketing. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@pixelsoftware.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "59",
+      "title": "Staff Front-End Engineer",
+      "type": "Part-Time",
+      "description": "Are you a passionate Staff Front-End Engineer? Come work with us in Orlando, FL. Strong communication skills and a drive to keep learning new technologies are highly valued. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Join a collaborative team where your ideas are valued.",
+      "location": "Orlando, FL",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Pioneer Dynamics",
+        "description": "Pioneer Dynamics builds modern software for logistics and delivery. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@pioneerdynamics.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "60",
+      "title": "React Developer",
+      "type": "Part-Time",
+      "description": "Join us in Charlotte, NC as a React Developer and help build products people love. We value clean code, code reviews, and a healthy work-life balance. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Join a collaborative team where your ideas are valued.",
+      "location": "Charlotte, NC",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Zenith Group",
+        "description": "Zenith Group builds modern software for media streaming. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@zenithgroup.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "61",
+      "title": "MERN Stack Developer",
+      "type": "Internship",
+      "description": "Join us in Austin, TX as a MERN Stack Developer and help build products people love. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Flexible hours and remote-friendly culture.",
+      "location": "Austin, TX",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Vertex Interactive",
+        "description": "Vertex Interactive is a company specializing in logistics and delivery. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@vertexinteractive.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "62",
+      "title": "React & TypeScript Developer",
+      "type": "Part-Time",
+      "description": "Join us in Charlotte, NC as a React & TypeScript Developer and help build products people love. Experience with REST APIs, Git, and testing tools such as Jest is a plus. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. We offer health coverage, paid time off, and growth opportunities.",
+      "location": "Charlotte, NC",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Umbra Technologies",
+        "description": "Umbra Technologies is a company specializing in travel and booking. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@umbratechnologies.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "63",
+      "title": "Front-End Architect",
+      "type": "Full-Time",
+      "description": "We are looking for a Front-End Architect to join our team in Raleigh, NC. We value clean code, code reviews, and a healthy work-life balance. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Competitive salary and benefits included.",
+      "location": "Raleigh, NC",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Blue Cloud",
+        "description": "Blue Cloud builds modern software for online education. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@bluecloud.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "64",
+      "title": "Front-End Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a Front-End Developer to join our team in San Francisco, CA. Strong communication skills and a drive to keep learning new technologies are highly valued. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Join a collaborative team where your ideas are valued.",
+      "location": "San Francisco, CA",
+      "salary": "$130K - $140K",
+      "company": {
+        "name": "Blue Interactive",
+        "description": "At Blue Interactive we focus on gaming and entertainment. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@blueinteractive.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "65",
+      "title": "Software Engineer (React)",
+      "type": "Remote",
+      "description": "Exciting opportunity for a Software Engineer (React) in a fully remote role. Experience with REST APIs, Git, and testing tools such as Jest is a plus. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Great learning budget and mentorship available.",
+      "location": "Remote",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Titan Digital",
+        "description": "Titan Digital is a company specializing in SaaS products. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@titandigital.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "66",
+      "title": "Staff Front-End Engineer",
+      "type": "Part-Time",
+      "description": "We are looking for a Staff Front-End Engineer to join our team in Baltimore, MD. Strong communication skills and a drive to keep learning new technologies are highly valued. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Competitive salary and benefits included.",
+      "location": "Baltimore, MD",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Pioneer Interactive",
+        "description": "At Pioneer Interactive we focus on green energy software. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@pioneerinteractive.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "67",
+      "title": "MERN Stack Developer",
+      "type": "Full-Time",
+      "description": "Join us in Raleigh, NC as a MERN Stack Developer and help build products people love. We value clean code, code reviews, and a healthy work-life balance. Experience with REST APIs, Git, and testing tools such as Jest is a plus. Competitive salary and benefits included.",
+      "location": "Raleigh, NC",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "Cedar Dynamics",
+        "description": "At Cedar Dynamics we focus on e-commerce platforms. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@cedardynamics.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "68",
+      "title": "React Performance Engineer",
+      "type": "Full-Time",
+      "description": "Join us in Pittsburgh, PA as a React Performance Engineer and help build products people love. We value clean code, code reviews, and a healthy work-life balance. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Join a collaborative team where your ideas are valued.",
+      "location": "Pittsburgh, PA",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Willow Apps",
+        "description": "Willow Apps builds modern software for data analytics dashboards. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@willowapps.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "69",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Remote",
+      "description": "Join us in a fully remote role as a Full Stack JavaScript Developer and help build products people love. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. We value clean code, code reviews, and a healthy work-life balance. Great learning budget and mentorship available.",
+      "location": "Remote",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "Fusion Solutions",
+        "description": "At Fusion Solutions we focus on digital marketing. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@fusionsolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "70",
+      "title": "Mid-Level React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Mid-Level React Developer in Cleveland, OH. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Strong communication skills and a drive to keep learning new technologies are highly valued. Great learning budget and mentorship available.",
+      "location": "Cleveland, OH",
+      "salary": "$130K - $140K",
+      "company": {
+        "name": "Lumen Apps",
+        "description": "Lumen Apps is a fast-growing team working on digital marketing. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@lumenapps.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "71",
+      "title": "Web Application Developer",
+      "type": "Full-Time",
+      "description": "Our growing team in Salt Lake City, UT is hiring a Web Application Developer. Experience with REST APIs, Git, and testing tools such as Jest is a plus. We value clean code, code reviews, and a healthy work-life balance. We offer health coverage, paid time off, and growth opportunities.",
+      "location": "Salt Lake City, UT",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Blue Group",
+        "description": "At Blue Group we focus on real estate technology. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@bluegroup.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "72",
+      "title": "React & TypeScript Developer",
+      "type": "Full-Time",
+      "description": "Join us in Dallas, TX as a React & TypeScript Developer and help build products people love. Strong communication skills and a drive to keep learning new technologies are highly valued. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Join a collaborative team where your ideas are valued.",
+      "location": "Dallas, TX",
+      "salary": "$120K - $130K",
+      "company": {
+        "name": "Nova Networks",
+        "description": "Nova Networks is a fast-growing team working on travel and booking. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@novanetworks.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "73",
+      "title": "Staff Front-End Engineer",
+      "type": "Full-Time",
+      "description": "Join us in Nashville, TN as a Staff Front-End Engineer and help build products people love. Strong communication skills and a drive to keep learning new technologies are highly valued. We value clean code, code reviews, and a healthy work-life balance. We offer health coverage, paid time off, and growth opportunities.",
+      "location": "Nashville, TN",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Orbit Software",
+        "description": "Orbit Software is a fast-growing team working on data analytics dashboards. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@orbitsoftware.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "74",
+      "title": "Front-End Team Lead",
+      "type": "Part-Time",
+      "description": "Our growing team in Houston, TX is hiring a Front-End Team Lead. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Flexible hours and remote-friendly culture.",
+      "location": "Houston, TX",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Horizon Technologies",
+        "description": "At Horizon Technologies we focus on financial technology. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@horizontechnologies.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "75",
+      "title": "UI Engineer",
+      "type": "Full-Time",
+      "description": "Our growing team in San Diego, CA is hiring a UI Engineer. We value clean code, code reviews, and a healthy work-life balance. Strong communication skills and a drive to keep learning new technologies are highly valued. Great learning budget and mentorship available.",
+      "location": "San Diego, CA",
+      "salary": "$130K - $140K",
+      "company": {
+        "name": "Gradient Dynamics",
+        "description": "At Gradient Dynamics we focus on financial technology. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@gradientdynamics.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "76",
+      "title": "UI Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a UI Engineer in Austin, TX. Experience with REST APIs, Git, and testing tools such as Jest is a plus. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Competitive salary and benefits included.",
+      "location": "Austin, TX",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "Keystone Technologies",
+        "description": "At Keystone Technologies we focus on data analytics dashboards. We pride ourselves on delivering reliable products and fostering an inclusive work environment.",
+        "contactEmail": "contact@keystonetechnologies.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "77",
+      "title": "React Performance Engineer",
+      "type": "Full-Time",
+      "description": "Are you a passionate React Performance Engineer? Come work with us in San Jose, CA. Experience with REST APIs, Git, and testing tools such as Jest is a plus. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Join a collaborative team where your ideas are valued.",
+      "location": "San Jose, CA",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Echo Solutions",
+        "description": "Echo Solutions is a fast-growing team working on digital marketing. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@echosolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "78",
+      "title": "Full Stack JavaScript Developer",
+      "type": "Part-Time",
+      "description": "Join us in Chicago, IL as a Full Stack JavaScript Developer and help build products people love. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Great learning budget and mentorship available.",
+      "location": "Chicago, IL",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Harbor Labs",
+        "description": "Harbor Labs is a company specializing in health-care software. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@harborlabs.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "79",
+      "title": "MERN Stack Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a MERN Stack Developer to join our team in Denver, CO. Strong communication skills and a drive to keep learning new technologies are highly valued. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. Great learning budget and mentorship available.",
+      "location": "Denver, CO",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Falcon Dynamics",
+        "description": "Falcon Dynamics builds modern software for gaming and entertainment. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@falcondynamics.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "80",
+      "title": "UI/UX Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join us in Nashville, TN as a UI/UX Front-End Developer and help build products people love. Experience with REST APIs, Git, and testing tools such as Jest is a plus. Strong communication skills and a drive to keep learning new technologies are highly valued. Great learning budget and mentorship available.",
+      "location": "Nashville, TN",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Fusion Studio",
+        "description": "Fusion Studio is a company specializing in media streaming. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@fusionstudio.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "81",
+      "title": "React & TypeScript Developer",
+      "type": "Internship",
+      "description": "We are looking for a React & TypeScript Developer to join our team in San Diego, CA. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. We value clean code, code reviews, and a healthy work-life balance. Flexible hours and remote-friendly culture.",
+      "location": "San Diego, CA",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Bright Dynamics",
+        "description": "Bright Dynamics is a company specializing in health-care software. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@brightdynamics.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "82",
+      "title": "UI/UX Front-End Developer",
+      "type": "Remote",
+      "description": "We are looking for a UI/UX Front-End Developer to join our team in a fully remote role. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Experience with REST APIs, Git, and testing tools such as Jest is a plus. We offer health coverage, paid time off, and growth opportunities.",
+      "location": "Remote",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Nova Studio",
+        "description": "Nova Studio is a fast-growing team working on financial technology. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@novastudio.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "83",
+      "title": "MERN Stack Developer",
+      "type": "Internship",
+      "description": "Join us in Indianapolis, IN as a MERN Stack Developer and help build products people love. The ideal candidate has solid experience with React, modern JavaScript, and responsive design. Strong communication skills and a drive to keep learning new technologies are highly valued. Flexible hours and remote-friendly culture.",
+      "location": "Indianapolis, IN",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Keystone Works",
+        "description": "Keystone Works builds modern software for SaaS products. Our team values collaboration, creativity, and continuous learning.",
+        "contactEmail": "contact@keystoneworks.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "84",
+      "title": "Front-End Developer",
+      "type": "Full-Time",
+      "description": "Our growing team in Seattle, WA is hiring a Front-End Developer. Strong communication skills and a drive to keep learning new technologies are highly valued. We value clean code, code reviews, and a healthy work-life balance. We offer health coverage, paid time off, and growth opportunities.",
+      "location": "Seattle, WA",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Nimbus Apps",
+        "description": "Nimbus Apps is a fast-growing team working on financial technology. We encourage employees to think creatively and take ownership of their work.",
+        "contactEmail": "contact@nimbusapps.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "85",
+      "title": "React Native Engineer",
+      "type": "Part-Time",
+      "description": "Are you a passionate React Native Engineer? Come work with us in Houston, TX. You will work closely with back-end engineers to deliver clean, accessible, and high-performance interfaces. We value clean code, code reviews, and a healthy work-life balance. Competitive salary and benefits included.",
+      "location": "Houston, TX",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Beacon Cloud",
+        "description": "Beacon Cloud is a company specializing in SaaS products. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@beaconcloud.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "86",
+      "title": "Web Application Developer",
+      "type": "Remote",
+      "description": "We are looking for a Web Application Developer to join our team in a fully remote role. You will build reusable components, collaborate with designers, and ship features in a fast-paced environment. Strong communication skills and a drive to keep learning new technologies are highly valued. Great learning budget and mentorship available.",
+      "location": "Remote",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Zenith Cloud",
+        "description": "Zenith Cloud is a company specializing in gaming and entertainment. We are committed to innovation, quality, and a supportive workplace for every employee.",
+        "contactEmail": "contact@zenithcloud.com",
         "contactPhone": "555-555-5555"
       }
     }
