@@ -17,37 +17,31 @@ const App = () => {
   const addJob = async (newJob) => {
     await fetch("/api/jobs", {
       method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify(newJob),
     })
   }
 
   // Delete Job
   const deleteJob = async (id) => {
-    await fetch(`/api/jobs/${id}`, {
-      method: "DELETE",
-    })
-  }  
+    await fetch(`/api/jobs/${id}`, { method: "DELETE" })
+  }
 
-  //updateJob
-  const updateJob = async (job) =>{
-    await fetch(`/api/jobs/${job.id}`,{
-      method: 'PUT',
-      headers: {
-        'Content-Type': 'application/json',
-      },
+  // Update Job
+  const updateJob = async (job) => {
+    await fetch(`/api/jobs/${job.id}`, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify(job),
     })
-}
+  }
 
   const router = createBrowserRouter(
     createRoutesFromElements(
       <Route path="/" element={<MainLayout />}>
         <Route index element={<HomePage />} />
         <Route path="jobs" element={<JobsPage />} />
-        <Route path="add-job" element={<AddJobPage AddJobSumit={addJob} />} />
+        <Route path="add-job" element={<AddJobPage addJobSubmit={addJob} />} />
         <Route
           path="jobs/:id"
           element={<JobPage deleteJob={deleteJob} />}
@@ -56,7 +50,7 @@ const App = () => {
         />
         <Route
           path="edit-job/:id"
-          element={<EditJobPage updateJobSubmit={updateJob}/>}
+          element={<EditJobPage updateJobSubmit={updateJob} />}
           loader={jobLoader}
           errorElement={<NotFoundPage />}
         />
